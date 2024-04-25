@@ -6,7 +6,7 @@ body{ /*fonte utilizada em todo texto da página*/
     font-family: "Ubuntu", sans-serif;
 }
 .cabecalho-imagem{ /*classe cabecalho-imagem no HTML*/
-    width: 35%; /*largura da imagem do cabeçalho*/
+    width: 25%; /*largura da imagem do cabeçalho*/
 }
 .cabecalho{ /*classe cabecalho no HTML*/
     background-color: #e9e9e9; 
@@ -39,6 +39,7 @@ body{ /*fonte utilizada em todo texto da página*/
     justify-content: center;
     align-items: center; /*alinhamento dos elementos: centro*/
     padding: 24px 0; /*24 pixels nas margens de cima e de baixo, nenhum na direita e esquerda do elemento*/
+    font-size: medium;
 }
 .escola-conteudo{ /*classe escola-conteudo no HTML*/
     width: 35%;
