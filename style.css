@@ -6,7 +6,7 @@ body{ /*fonte utilizada em todo texto da página*/
     font-family: "Ubuntu", sans-serif;
 }
 .cabecalho-imagem{ /*classe cabecalho-imagem no HTML*/
-    width: 30%; /*largura da imagem do cabeçalho*/
+    width: 23%; /*largura da imagem do cabeçalho*/
 }
 .cabecalho{ /*classe cabecalho no HTML*/
     background-color: #e9e9e9; 
