@@ -3,7 +3,7 @@ header{ /*classe cabecalho criada no HTML*/
     color: #545454; /*cor da fonte*/
 }
 body{ /*fonte utilizada em todo texto da página*/
-    font-family: "Poppins", sans-serif; /*estilo da fonte*/
+    font-family: "Ubuntu", sans-serif;
 }
 .cabecalho-imagem{ /*classe cabecalho-imagem no HTML*/
     width: 25%; /*largura da imagem do cabeçalho*/
