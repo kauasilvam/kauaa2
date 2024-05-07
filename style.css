@@ -30,7 +30,7 @@ body{ /*fonte utilizada em todo texto da página*/
     width: 25%;
 }
 .cabecalho-lista-item li:hover{
-    color: crimson;
+    color: rgb(187, 8, 8);
 }
 .escola{ /*classe escola no HTML*/
     background-image: linear-gradient(#bbbbbb, #e9e9e9); /*imagem de fundo*/
@@ -58,7 +58,7 @@ body{ /*fonte utilizada em todo texto da página*/
 }
 .estudante-titulo{ /*classe estudante-titulo no HTML*/
     text-align: center;
-    color: crimson;
+    color: rgb(187, 8, 8);
     padding: 50px 0; /*50 pixels nas margens de cima e de baixo, nenhum na direita e esquerda do elemento*/
 }
 .estudante-todos{ /*classe estudante-todos no HTML*/
