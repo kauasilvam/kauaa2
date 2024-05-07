@@ -45,7 +45,6 @@ body{ /*fonte utilizada em todo texto da página*/
     width: 35%;
 }
 .escola-titulo{ /*classe escola-titulo no HTML*/
-    color:crimson;
     padding: 24px 0; /*24 pixels nas margens de cima e de baixo, nenhum na direita e esquerda do elemento*/
 }
 .estudante-imagem{ /*classe estudante-imagem no HTML*/
@@ -59,6 +58,7 @@ body{ /*fonte utilizada em todo texto da página*/
 }
 .estudante-titulo{ /*classe estudante-titulo no HTML*/
     text-align: center;
+    color: crimson;
     padding: 50px 0; /*50 pixels nas margens de cima e de baixo, nenhum na direita e esquerda do elemento*/
 }
 .estudante-todos{ /*classe estudante-todos no HTML*/
